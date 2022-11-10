@@ -15,7 +15,7 @@ namespace MilesAway.Helper.Email
 
         public Email()
         {
-            _apiKey = "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";
+            _apiKey = ""; //Add apiKey
             _client = new SendGridClient(_apiKey);
             _fromAddress = new EmailAddress("adla.kajtaz@edu.fit.ba", "Adla");
         }
