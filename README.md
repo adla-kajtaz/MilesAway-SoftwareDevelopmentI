@@ -5,6 +5,6 @@ This is a project for Software Development I. It's made using Angular CLI and AS
 <br />
 <br />
 
-#Created and developed
+## Created and developed
 - Adla Kajtaz
 - [Majla Arap](https://github.com/majla-arap)
